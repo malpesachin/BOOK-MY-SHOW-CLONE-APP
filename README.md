@@ -1,1 +1,1 @@
-# BOOK-MY-SHOW-CLONE-APP
+# book-my-show
